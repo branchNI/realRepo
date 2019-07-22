@@ -2,6 +2,6 @@
 
 def utfPath = "source\\jenkinstest.lvproj"
 def lvVersion = "18.0"
-def lvPath = "\"C:\\Program Files (x86)\\National Instruments\\LabVIEW 2018\\LabVIEW.exe\""
+def lvBitness = "32"
 
-lvPipeline(utfPath, lvVersion, lvPath)
+lvPipeline(utfPath, lvVersion, lvBitness)
