@@ -28,20 +28,20 @@
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/C/Windows/Temp</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Windows/Temp/jenkinsArchive</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{43C985F3-49B3-42F5-A367-7C53DDC800D8}</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/Windows/Temp/Application.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Windows/Temp/jenkinsArchive/Application.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">/C/Windows/Temp/data</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Windows/Temp/jenkinsArchive/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{39BB4E0E-83A1-472F-9B1D-FFF11B7E1F80}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F297FA8C-F8A7-4C6B-9B2C-C0D7182A1B03}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/add.vi</Property>
