@@ -13,8 +13,8 @@
 		<Item Name="Unit Tests" Type="Folder" URL="../Unit Tests">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Add.vi" Type="VI" URL="../Add.vi"/>
-		<Item Name="Subtract.vi" Type="VI" URL="../Subtract.vi"/>
+		<Item Name="add.vi" Type="VI" URL="../add.vi"/>
+		<Item Name="subtract.vi" Type="VI" URL="../subtract.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="myBuildSpec" Type="EXE">
@@ -45,7 +45,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{290D1491-4C60-4D93-A463-6D685529647E}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Add.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/add.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
